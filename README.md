@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on end to end projects and upcoming challenges for those that dare!
 - 📫 How to reach me:
   LinkedIn: https://www.linkedin.com/in/ejw012/
-  Email: williams.eric1914@gmail.com
+  Email: datamadeeezy@gmail.com
 
 <!---
 DataMadeEEZY/DataMadeEEZY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
